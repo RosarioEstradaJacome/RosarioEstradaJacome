@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RosarioEstradaJacome
 👀 I’m interested in learning to program in different programming languages.
 🌱 I’m currently learning to develop web pages with CSS, HTML and Java Script.
-💞️ I’m study Political Science and Public Administration
+💞️ I’m study chemical engineer
 📫 How to contact me: estradarosy03@gmail.com Tel: 5535136807
 
 <!---
